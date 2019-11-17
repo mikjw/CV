@@ -26,7 +26,7 @@ As a developer I'm now hooked on the thrill of building things and learning abou
 | Project | Description | Technologies | 
 |--|--|--|
 |<a href="https://github.com/mikjw/makers-final-project">Grandmasters slack-based chess game</a> | Makers final project. Chess logic built from scratch using TDD, with modified rulesets the user can apply. One- or two-player, against friends or a minimax 'AI' opponent, over Slack using  Chessy the slackbot or in the command line. |Python, Pytest, Pytest-Cov, Travis |  
-|<a href="https://github.com/etelish/acebook-Team-Meme">Acebook-Team-Meme</a> | A Facebook clone built in a team of four, where we focused on agile practices and pair programming. I also kept this [project wiki](https://github.com/etelish/acebook-Team-Meme/wiki). |  Rails, ActiveRecord, PostgreSQL, Bootstrap, RSpec, Capybara | 
+|<a href="https://github.com/mikjw/acebook-Team-Meme">Acebook-Team-Meme</a> | A Facebook clone built in a team of four, where we focused on agile practices and pair programming. I also kept this [project wiki](https://github.com/etelish/acebook-Team-Meme/wiki). |  Rails, ActiveRecord, PostgreSQL, Bootstrap, RSpec, Capybara | 
   |<a href="https://github.com/mikjw/bank-tech-test">Bank Tech Test</a> | An example of a completed tech test. | Ruby, RSpec |
   | <a href="https://github.com/mikjw/news-summary-challenge">News Summary Challenge</a> | A front end app using the Ayelian API to summarise news, with a focus on doing Object Oriented Design in JavaScript.<br> | Vanilla JavaScript (including a simple testing framework) |
   | <a href="https://github.com/mikjw/rps-challenge">RPS Challenge</a> | A Rock, Paper, Scissors web app - an early Makers weekend challenge.<br> | Ruby, Sinatra,  HTML, CSS, Capybara, RSpec, Simplecov | 
