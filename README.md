@@ -28,7 +28,7 @@ As a developer I'm now hooked on the thrill of building things and learning abou
 |<a href="https://github.com/mikjw/makers-final-project">Grandmasters slack-based chess game</a> | Makers final project. Chess logic built from scratch using TDD, with modified rulesets the user can apply. One- or two-player, against friends or a minimax 'AI' opponent, over Slack using  Chessy the slackbot or in the command line. |Python, Pytest, Pytest-Cov, Travis |  
 |<a href="https://github.com/mikjw/acebook-Team-Meme">Acebook-Team-Meme</a> | A Facebook clone built in a team of four, where we focused on agile practices and pair programming. I also kept this [project wiki](https://github.com/etelish/acebook-Team-Meme/wiki). |  Rails, ActiveRecord, PostgreSQL, Bootstrap, RSpec, Capybara | 
   |<a href="https://github.com/mikjw/bank-tech-test">Bank Tech Test</a> | An example of a completed tech test. | Ruby, RSpec |
-  | <a href="https://github.com/mikjw/news-summary-challenge">News Summary Challenge</a> | A front end app using the Ayelian API to summarise news, with a focus on doing Object Oriented Design in JavaScript.<br> | Vanilla JavaScript (including a simple testing framework) |
+  | <a href="https://github.com/mikjw/news-summary-challenge">News Summary Challenge</a> | A front end app using the Aylien API to summarise news, with a focus on doing Object Oriented Design in JavaScript.<br> | Vanilla JavaScript (including a simple testing framework) |
   | <a href="https://github.com/mikjw/rps-challenge">RPS Challenge</a> | A Rock, Paper, Scissors web app - an early Makers weekend challenge.<br> | Ruby, Sinatra,  HTML, CSS, Capybara, RSpec, Simplecov | 
 
 ## Skills
@@ -36,7 +36,7 @@ As a developer I'm now hooked on the thrill of building things and learning abou
 
 ### Clean code
 
-- Good design: during our [Grandmasters](https://github.com/mikjw/makers-final-project) final project at Makers, I constantly considered the design of our modules in relation to a) substituting a 'computer' opponent for a real player and b) easily switching in new rules. The rules could have become coupled to the game, but with careful design we able to extract and change them.
+- Good design: during our [Grandmasters](https://github.com/mikjw/makers-final-project) final project at Makers, I constantly considered the design of our modules in relation to a) substituting a 'computer' opponent for a real player and b) easily switching in new rules. The rules could have become coupled to the game, but with careful design we able to extract and easily change them.
 
 - TDD: used from the beginning at Makers, TDD has brought about a couple of serious 'AHA' moments! I've learned the great utility of applying test-first strictly, as in my [Bank Tech Test](), and reflected on cases where it's less appropriate.
 
@@ -58,7 +58,7 @@ My life seems to have followed a pattern of seeking out challenge:
 
 - I moved to Toulouse to study in a foriegn language and constantly pushed myself to integrate and become 'fluent'.
 
-- I followed my interest in medicine into a career in pharmaceutical marketing, where I had to quickly master large volumes of scientific information and discuss it with authority with clients. As Account Manager at BBH I actively sought out opportunities to work on pitches and accounts with new subjects to learn.
+- I followed my interest in medicine into a career in pharmaceutical marketing, where I had to quickly master large volumes of scientific information and discuss it with authority with clients. As Account Manager at BBH I actively sought out opportunities to work on pitches with new subjects to learn and potential to grow the business. 
 
 - Now as a developer I relish opening a new codebase and trying to quickly understand it (especially if it's written in a language that's new to me).
 
@@ -91,7 +91,7 @@ Account Manager, Health
 - Led on pitches 
 - Managed projects including digital sales aids using Veeva CRM and Salesforce
 
-#### TBWA/WORLDHEALTH (Aug 2015 – May 2017)   
+#### TBWA\WORLDHEALTH (Aug 2015 – May 2017)   
 Account Executive
 - Managed projects including digital sales aids using Veeva CRM and Salesforce
 
