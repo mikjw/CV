@@ -38,7 +38,7 @@ As a developer I'm now hooked on the thrill of building things and learning abou
 
 - Good design: during our [Grandmasters](https://github.com/mikjw/makers-final-project) final project at Makers, I constantly considered the design of our modules in relation to a) substituting a 'computer' opponent for a real player and b) easily switching in new rules. The rules could have become coupled to the game, but with careful design we able to extract and easily change them.
 
-- TDD: used from the beginning at Makers, TDD has brought about a couple of serious 'AHA' moments! I've learned the great utility of applying test-first strictly, as in my [Bank Tech Test](), and reflected on cases where it's less appropriate.
+- TDD: used from the beginning at Makers, TDD has brought about a couple of serious 'AHA' moments! I've learned the great utility of applying test-first strictly, as in my [Bank Tech Test](https://github.com/mikjw/bank-tech-test), and reflected on cases where it's less appropriate.
 
 
 ### Teamwork, quality, speed, clarity
