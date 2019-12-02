@@ -67,10 +67,10 @@ My life seems to have followed a pattern of seeking out challenge:
 
 #### Makers (July – November 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, BDD
 - Agile/XP
-- Ruby, Rails, JavaScript, Node, Python
-- RSpec, Jasmine, Pytest
+- Ruby, Rails, JavaScript, Node, Python, Java
+- RSpec, Jasmine, Pytest, JUnit
 
 #### University of Nottingham (2010 – 2014)
 
